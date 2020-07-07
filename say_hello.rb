@@ -1,3 +1,4 @@
 def say_hello (name, "Hello Ruby Programmer")
-  puts phrase="hello #{name}"
+ phrase="hello #{name}"
+ puts phrase
 end
