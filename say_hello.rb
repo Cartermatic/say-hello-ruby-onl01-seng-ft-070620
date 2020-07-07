@@ -1,3 +1,3 @@
 def say_hello
-  puts phrase= hello
+  puts phrase="hello"
 end
